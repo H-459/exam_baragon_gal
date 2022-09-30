@@ -2,4 +2,4 @@
 "settingsInheritedFrom": "whitesource-config/whitesource-config@main",
 "scanSettings": {
 "baseBranches": ["main","feature"]
-}
+}}
